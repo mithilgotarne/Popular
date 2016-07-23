@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context="com.mithil.popular.Details">
+    <item
+        android:title="Fav"
+        android:id="@+id/fav"
+        android:icon="@drawable/ic_favorite_border_white_24dp"
+        app:showAsAction="always"
+        android:orderInCategory="1" />
+    <item
+        android:id="@+id/action_share"
+        app:actionProviderClass="android.support.v7.widget.ShareActionProvider"
+        android:title="Share"
+        app:showAsAction="always"
+        android:orderInCategory="2"
+        />
+</menu>
