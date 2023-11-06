@@ -1,5 +1,5 @@
 # Popular
-TV-Movie Database Android App. Download Link: https://drive.google.com/open?id=0B-gmCTzNujxJQnh2YVliZnZmY0k
+TV-Movie Database Android App. 
 
 <h2>Screenshots</h2>
 <img src="screenshots/Screenshot_20160723-115214.png?raw=true" width="50%">
